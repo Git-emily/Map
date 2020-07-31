@@ -1,3 +1,7 @@
 Reference: 
 https://blog.csdn.net/u013791374/article/details/51441768 
 https://blog.csdn.net/weixin_34233618/article/details/85964488
+
+地址解析和逆地址解析
+1. 地址解析：根据详细的地理位置信息获取location：经纬度
+2. 逆地址解析：根据经纬度获取详细地址信息
